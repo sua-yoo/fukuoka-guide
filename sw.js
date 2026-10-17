@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='4512dc0e37d681ac';
+const VERSION='a03b36ae16458d71';
 const BASE=new URL('./',self.location.href);
 const PREFIX='fukuoka-guide:'+BASE.pathname+':';
 const CACHE=PREFIX+VERSION;
