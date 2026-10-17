@@ -1,6 +1,6 @@
 # Fukuoka guide — GitHub Pages PWA
 
-This folder is a complete offline app. No dependencies, API key, database, or build service are needed. The Korean interface has separate map, itinerary, shopping, dining and sightseeing screens. Only the selected day is shown. Compact place lists open the full photos and details on tap. All 33 photos, maps and guide information are included in index.html.
+This folder is a complete offline app. No dependencies, API key, database, or build service are needed. The Korean interface has separate map, itinerary, shopping, dining and sightseeing screens. Only the selected day is shown. Compact place lists open the full photos and details on tap. All 41 photos, maps and guide information are included in index.html.
 
 ## Visibility
 
